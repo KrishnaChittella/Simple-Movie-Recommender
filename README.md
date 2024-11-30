@@ -8,10 +8,6 @@ This is a **Movie Recommender System** built using **Python**, **Streamlit**, an
 - Fetches movie posters using the [TMDb API](https://www.themoviedb.org/).
 - Interactive and user-friendly interface built with Streamlit.
 
-## Demo 🎬
-
-[Add a link to a deployed version of your app (e.g., Streamlit Cloud, Heroku, etc.)]
-
 ## Project Structure 📂
 ```
 Movies-Recommendor/ 
