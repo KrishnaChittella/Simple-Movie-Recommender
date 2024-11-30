@@ -47,8 +47,10 @@ Movies-Recommendor/
 ### Steps
 
 1. Clone the repository:
-   ```git clone https://github.com/yourusername/Movies-Recommendor.git```
-   ```cd Movies-Recommendor```
+   ```
+   git clone https://github.com/yourusername/Movies-Recommendor.git
+   cd Movies-Recommendor
+   ```
 2. Install dependancies:
     ```pip install -r requirements.txt```
 3. Add your TMDb API:
