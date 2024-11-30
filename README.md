@@ -13,7 +13,7 @@ This is a **Movie Recommender System** built using **Python**, **Streamlit**, an
 [Add a link to a deployed version of your app (e.g., Streamlit Cloud, Heroku, etc.)]
 
 ## Project Structure 📂
-
+```
 Movies-Recommendor/ 
 │  
 ├── requirements.txt 
@@ -29,7 +29,7 @@ Movies-Recommendor/
 |   └── similarity.pkl 
 │ 
 └── README.md
-
+```
 
 ## How It Works 🛠️
 
