@@ -15,31 +15,20 @@ This is a **Movie Recommender System** built using **Python**, **Streamlit**, an
 ## Project Structure 📂
 
 Movies-Recommendor/ 
+│  
+├── requirements.txt 
 │ 
 ├── app/ 
+|   │ 
+|   └── app.py 
 │ 
-├── app.py 
-
-# Main Streamlit app file 
+└── models/ 
+|   │ 
+|   ├── movies_dict.pkl 
+|   │ 
+|   └── similarity.pkl 
 │ 
-└── requirements.txt 
-
-# Python dependencies 
-│ 
-├── models/ 
-│ 
-├── movies_dict.pkl 
-
-# Serialized movie data 
-│ 
-├── similarity.pkl 
-
-# Precomputed similarity matrix 
-│ 
-├── README.md 
-# Project documentation 
-└── .gitignore 
-# Ignored files and folders
+└── README.md
 
 
 ## How It Works 🛠️
